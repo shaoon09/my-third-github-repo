@@ -5,4 +5,5 @@ div{
     margin: 10px;
     border: 20px solid rgb(210, 30, 30);
     border-radius: 5px;
+    box-shadow: 10px 10px 5px cornflowerblue;
 }
